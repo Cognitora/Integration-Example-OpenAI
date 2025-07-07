@@ -158,7 +158,7 @@ This project is licensed under the ISC License.
 ## Support
 
 For issues with:
-- **Cognitora SDK**: Visit [Cognitora Support](https://cognitora.dev/support)
+- **Cognitora SDK**: Visit [Cognitora Support](https://cognitora.dev/)
 - **OpenAI API**: Check [OpenAI Help Center](https://help.openai.com)
 - **This Demo**: Create an issue in this repository
 
